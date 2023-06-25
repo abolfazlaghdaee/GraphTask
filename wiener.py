@@ -90,7 +90,7 @@ def WPolythiophene(p):
 
 
 
-p = int(input("Enter the number of P: "))
+p = int(input("Enter the number of PT: "))
 print(WPolythiophene(p))
     
     
